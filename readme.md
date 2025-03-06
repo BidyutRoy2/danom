@@ -15,8 +15,8 @@ This script will:
 ## 📥 **How ​​to Install**
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/BidyutRoy2/danom-node.git
-cd danom-node
+git clone https://github.com/BidyutRoy2/danom.git
+cd danom
 ```
 
 ### 2️⃣ Grant Execution Permission
